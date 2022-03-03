@@ -1,8 +1,7 @@
 <h1>👩🏻‍💻 Olá, eu sou a Luana Ferreira!!!<h1>
 <div align="center">
   <a href="https://github.com/Luana0308">
-    <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Luana0308&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=1F6FEB&dates=58A6FF&fire=1F6FEB&ring=58A6FF">
-<br>
+  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=Luana0308&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=1F6FEB&dates=58A6FF&fire=1F6FEB&ring=58A6FF">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luana0308&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luana0308&layout=compact&langs_count=7&theme=radical"/>
 </div>
