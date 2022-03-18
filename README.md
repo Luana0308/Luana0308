@@ -7,9 +7,9 @@
   
 <div align="center">
   <a href="https://github.com/Luana0308">
-  <img height="140em" src="http://github-readme-streak-stats.herokuapp.com?user=Luana0308&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=1F6FEB&dates=58A6FF&fire=1F6FEB&ring=58A6FF">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Luana0308&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luana0308&layout=compact&langs_count=7&theme=radical"/>
+  <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=Luana0308&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=1F6FEB&dates=58A6FF&fire=1F6FEB&ring=58A6FF">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Luana0308&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luana0308&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
   <div style="display: inline_block"><br>
