@@ -1,9 +1,15 @@
-<h1>👩🏻‍💻 Olá, eu sou a Luana Ferreira!!!<h1>
+**👩🏻‍💻 Olá, eu sou a Luana Ferreira!!!**
+ 
+ - Eu sou estudante de desenvolvimento da web Trybe em parceria com a Xp.
+ - Eu sou apaixonada por ler, meus temas favoritos são desenvolvimento pessoal e Biografias. 
+ - Meus hobbies são ver series, leitura e animes. 
+ 
+  
 <div align="center">
   <a href="https://github.com/Luana0308">
-  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=Luana0308&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=1F6FEB&dates=58A6FF&fire=1F6FEB&ring=58A6FF">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luana0308&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luana0308&layout=compact&langs_count=7&theme=radical"/>
+  <img height="140em" src="http://github-readme-streak-stats.herokuapp.com?user=Luana0308&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=1F6FEB&dates=58A6FF&fire=1F6FEB&ring=58A6FF">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Luana0308&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luana0308&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
   <div style="display: inline_block"><br>
@@ -12,9 +18,10 @@
   <img align="center" alt="Luana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Luana-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
+  <img align="center" alt="Luana-redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
   <img align="right" alt="Luana-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/qf4KW5nIn4MBNgDiwn/giphy.gif">
   </div>
-  
+                                                                                                                                        
   ##
   <div>
   <a href="https://www.instagram.com/luh.ff/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
