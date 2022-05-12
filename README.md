@@ -4,6 +4,7 @@
  - Eu sou apaixonada por ler, meus temas favoritos são desenvolvimento pessoal e Biografias. 
  - Meus hobbies são ver series, leitura e animes. 
  
+ 
 ## 
 
 <div align="center">
@@ -24,11 +25,14 @@
   <img align="center" alt="Luana-redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
   <img align="right" alt="Luana-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/qf4KW5nIn4MBNgDiwn/giphy.gif">
   </div>
+                                                                                                                                          
                                                                                                                                               
   ##
   <div>
   <a href="mailto:luanaff2008@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luana-fatima-ferreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+ ![](https://komarev.com/ghpvc/?username=Luana0308&color=blueviolet)
   
   ![Snake animation](https://github.com/Luana0308/Luana0308/blob/output/github-contribution-grid-snake.svg)
  
