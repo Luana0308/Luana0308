@@ -9,7 +9,7 @@
  - 📚 No módulo Front-End: HTML, CSS, JavaScript, Jest, Redux, ContextApi e React. 
  - 📚 No módulo de Back End estou aprendendo: Docker, Sql, NodeJs
  
- - 👩🏻 Sobre mim: Eu sou uma pessoa apaixonada por livros 📕, meus temas favoritos são desenvolvimento pessoal e Biografias. Adoro passar meu tempo livre assistindo series, filmes, videos de desenvolvimento pessoal e animes 💻. Gosto muito de viajar e conhecer novos lugares, novas culturas e ter novas experiencias 🧳 , sempre asisito blogs de viagens. 
+ - 👩🏻 Sobre mim: Eu sou uma pessoa apaixonada por livros 📕, meus temas favoritos são desenvolvimento pessoal e Biografias. Adoro passar meu tempo livre assistindo series, filmes, videos de desenvolvimento pessoal e animes 💻. Gosto muito de viajar e conhecer novos lugares, novas culturas e ter novas experiencias 🧳 , sempre assisto blogs de viagens. 
  
  - 🌷 Querendo conversar ou tirar dúvidas estou a disposição.  
  
