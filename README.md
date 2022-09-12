@@ -53,7 +53,6 @@
    
   ![](https://komarev.com/ghpvc/?username=Luana0308&color=blueviolet)
 
-  ![Snake animation](https://github.com/Luana0308/Luana0308/blob/output/github-contribution-grid-snake.svg)
  </div>
  
  
