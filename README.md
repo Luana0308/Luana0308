@@ -4,9 +4,9 @@
  <img align="right" alt="Luana-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/qf4KW5nIn4MBNgDiwn/giphy.gif">
  </div>
  
- - 👩🏻‍💻 Eu sou estudante de desenvolvimento da Software na Trybe que é uma instituição voltada para projetos praticos, procurando demonstrar ao aluno a vivencia no mercado de trabalho, sendo que no curso são produzidos mais de 40 projeto e com uma carga horária de mais de 1500 horas.
+ - 👩🏻‍💻 Eu sou Desenvolvedora de Software Junior formada na Trybe que é uma instituição voltada para projetos praticos, sendo que no curso foi produzido mais de 40 projeto e com uma carga horária de mais de 1500 horas. Atualmente estou trabalhando como front-end na empresa XP Inc. 
  
- - 👩🏻 Sobre mim: Eu sou uma pessoa apaixonada por livros 📕, meus temas favoritos são desenvolvimento pessoal e Biografias. Adoro passar meu tempo livre assistindo series, filmes, videos de desenvolvimento pessoal e animes 💻. Gosto muito de viajar e conhecer novos lugares, novas culturas e ter novas experiencias 🧳 . 
+ - 👩🏻 Curiosidades sobre mim: Eu sou uma pessoa apaixonada por livros 📕, meus temas favoritos são desenvolvimento pessoal e Biografias. Adoro passar meu tempo livre assistindo series, filmes, videos de desenvolvimento pessoal e animes 💻. Gosto muito de viajar e conhecer novos lugares, novas culturas e ter novas experiencias 🧳 . 
  
  - 🌷 Querendo conversar ou tirar dúvidas estou a disposição.  
  
