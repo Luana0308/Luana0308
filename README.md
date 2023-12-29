@@ -1,4 +1,4 @@
-### Olá, eu sou a Luana Ferreira e nasci em Belo Horizonte-MG! 🌆
+### Olá, eu sou a Luana Ferreira! 🌆
 
 <div align="center">
  <img align="right" alt="Luana-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/qf4KW5nIn4MBNgDiwn/giphy.gif">
